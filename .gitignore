@@ -57,3 +57,4 @@ tmp/
 # Uncomment the next line only if you intentionally want to ignore lockfiles.
 package-lock.json
 # yarn.lock
+temp/
